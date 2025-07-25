@@ -1,4 +1,6 @@
 Bash Scripting Resources
+
+
 Overview
 This repository contains my Bash scripting notes along with example scripts I’ve written to practice and demonstrate Bash concepts. It’s a living document, I will continue updating and expanding these resources over time.
 
