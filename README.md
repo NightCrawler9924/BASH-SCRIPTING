@@ -1,8 +1,7 @@
-Bash Scripting Resources
-
+**Bash Scripting Resources**
 
 Overview
-This repository contains my Bash scripting notes along with example scripts I’ve written to practice and demonstrate Bash concepts. It’s a living document, I will continue updating and expanding these resources over time.
+    This repository contains my Bash scripting notes along with example scripts I’ve written to practice and demonstrate Bash concepts. It’s a living document, I will continue updating and expanding these             resources over time.
 
 Contents
     BASH.docx — Detailed Bash scripting notes covering basics, variables, conditionals, loops, and more.
@@ -61,20 +60,24 @@ Example:
     
     Includes basic error handling for invalid input and file existence.
 
+
 Notes
 These resources cover fundamental Bash commands, scripting syntax, variables, input/output handling, conditionals, loops, and good scripting practices. The notes and scripts aim to guide beginners towards intermediate Bash scripting proficiency.
 
+
 Contributing / Updating
 I’ll keep this repo updated with new scripts, tips, and improvements. Suggestions and feedback are welcome!
+
 
 🔖 License
 
 This project is licensed under the MIT License — feel free to explore, use, and contribute.
 
+
 🙌 Author
 
 Made with 💻 and 📚 by Deepansh Sabharwal
-Feel free to check out My ePortfolio or reach out for collaborations.
+Feel free to check out [My ePortfolio](https://nightcrawler9924.github.io/ePortfolio/) or reach out for collaborations.
 
 Happy scripting!
 
