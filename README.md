@@ -2,6 +2,7 @@
 
 ---
 
+
 ## Overview
 
 This repository contains my Bash scripting notes along with example scripts I’ve written to practice and demonstrate Bash concepts. **It’s a living document, I will continue updating and expanding these resources over time.**
@@ -13,6 +14,15 @@ This repository contains my Bash scripting notes along with example scripts I’
 - `notes.md` — Detailed Bash scripting notes covering basics, variables, conditionals, loops, and more.  
 - `run_all.sh` — Simple script that shows the current date and lists the contents of a user-specified directory.  
 - `check_positive_negative.sh` — Script to demonstrate conditionals by checking if a number is positive or negative.
+
+🔖 License
+
+This project is licensed under the MIT License — feel free to explore, use, and contribute.
+
+🙌 Author
+
+Made with 💻 and 📚 by Deepansh Sabharwal
+Feel free to check out my ePortfolio or reach out for collaborations.
 
 ---
 
@@ -52,15 +62,8 @@ Notes
 Contributing / Updating
 I’ll keep this repo updated with new scripts, tips, and improvements. Suggestions and feedback are welcome!
 
-🔖 License
-
-This project is licensed under the MIT License — feel free to explore, use, and contribute.
-
-🙌 Author
-
-Made with 💻 and 📚 by Deepansh Sabharwal
-Feel free to check out my ePortfolio or reach out for collaborations.
-
 
 
 Happy scripting!
+
+
